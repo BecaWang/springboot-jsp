@@ -11,6 +11,9 @@ public class Employee {
 
 	   private String designation;
 
+	public Employee() {
+	}
+
 	public String getFirstName() {
 		return firstName;
 	}
